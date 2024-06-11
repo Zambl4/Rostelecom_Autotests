@@ -1,7 +1,6 @@
 # Rostelecom_Autotests
 
-Запускать командой python -m pytest -v --driver Chrome --driver-path c:\qa\chromedriver\chromedriver-win64\chromedriver.exe test_rostelecom.py
-
+Python 3.8
 Использован Chrome и драйвер для него Version 125.0.6422.142 (Official Build) (64-bit)
 Библиотеки selenium== 4.9.0, pytest-selenium== 4.0.0, pytest== 6.2.5
 
